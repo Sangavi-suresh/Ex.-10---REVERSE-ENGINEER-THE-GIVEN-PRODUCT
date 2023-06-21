@@ -32,11 +32,25 @@
 
 ## Input:
 
+
+![243664338-4ce5327b-0f8b-47a4-80a6-13499741d8b1](https://github.com/Sangavi-suresh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118541861/5fb249b9-8391-4f65-8367-de920ddf582d)
+
+
 ### Output:
+![243664407-eff7c5c8-b542-42f1-a816-7a4aa0aa7c79](https://github.com/Sangavi-suresh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118541861/c93a3758-8666-481c-b848-01e2e19db516)
 
 
-### Name:
-### Register Number:
+![243664974-52c9c1b7-6a52-43ed-b782-8aed5dde8573](https://github.com/Sangavi-suresh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118541861/49e7c814-4b2f-4b76-9e73-385c862c273d)
+
+
+
+
+
+
+
+
+### Name: Sangavi S
+### Register Number: 21222223013030
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
